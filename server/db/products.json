@@ -1,0 +1,30 @@
+[
+  {
+    "id_product": 100,
+    "product_name": "Jacket",
+    "price": 4600,
+    "imgProduct": "./img/products/100.jpg",
+    "imgCart": "./img/cart/100.png"
+  },
+  {
+    "id_product": 123,
+    "product_name": "Shirt",
+    "price": 1000,
+    "imgProduct": "./img/products/123.jpeg",
+    "imgCart": "./img/cart/123.png"
+  },
+  {
+    "id_product": 125,
+    "product_name": "Hand-bag",
+    "price": 1600,
+    "imgProduct": "./img/products/125.jpg",
+    "imgCart": "./img/cart/125.png"
+  },
+  {
+    "id_product": 126,
+    "product_name": "Shoes",
+    "price": 3700,
+    "imgProduct": "./img/products/126.jpg",
+    "imgCart": "./img/cart/126.png"
+  }
+]
