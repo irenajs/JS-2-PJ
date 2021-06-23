@@ -1,0 +1,22 @@
+{
+    "amount": 6200,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 100,
+            "product_name": "Jacket",
+            "price": 4600,
+            "imgProduct": "./img/products/100.gpeg",
+            "imgCart": "./img/cart/100.png"
+        },
+        {
+            "quantity": 1,
+            "id_product": 125,
+            "product_name": "Hand-bag",
+            "price": 1600,
+            "imgProduct": "./img/products/125.jpg",
+            "imgCart": "./img/cart/125.png"
+        }
+    ]
+}
